@@ -182,7 +182,7 @@ echo $text;
 echo strip_tags($text);
 */
 
-
+/*
 //Trabajo con elementos monobyte y multibyte
 $monobyte_text = "hola";
 $multibyte_text = "mañana . vacío";
@@ -192,3 +192,6 @@ echo "<br>";
 echo strtoupper($multibyte_text);
 echo "<br>";
 echo mb_strtoupper($multibyte_text);
+*/
+
+
